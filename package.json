@@ -1,6 +1,7 @@
 {
   "name": "intentions",
   "version": "0.0.1",
+  "main": "index.js",
   "private": true,
   "devDependencies": {
     "babel-preset-es2015": "^6.9.0",
@@ -12,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts start",
     "eject": "react-scripts eject"
   }
 }
